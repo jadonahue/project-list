@@ -2,7 +2,7 @@
 This is a list of projects I have created.
 
 
-<h2><a href="https://jadonahue.github.io/bootstrap-practice-site-tindog/">Bootstrap Website</a></h2>
+<h2><a href="https://jadonahue.github.io/bootstrap-practice-site-tindog/">Tindog Bootstrap Website</a></h2>
 <p>
   This is a website built using Bootstrap.
   <br>
