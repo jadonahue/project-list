@@ -44,12 +44,3 @@ This is a list of projects I have created.
   <br>
   <a href="https://github.com/jadonahue/calculator">Code Here</a>
 </p>
-
----
-
-<h2>Weather Project</h2>
-<p>
-   This is a weather app project with backend server using node.js and express.js. This uses an api to gather relevant weather information for a city that the client inputs. This returns the weather description, temp, and a corresponding image of the current weather at that that time.
-  <br>
-  <a href="https://github.com/jadonahue/weather-project">Code Here</a>
-</p>
