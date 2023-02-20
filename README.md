@@ -38,9 +38,7 @@ This is a list of projects I have created.
 
 ---
 
-<h2>Calculator</h2>
+<h2><a href="https://fathomless-atoll-64548.herokuapp.com/">Newsletter Signup</a></h2>
 <p>
- This is a website that has two calculators and has a backend server using express.js with node.js. One calculator does simple addition and the other calculator checks a persons BMI (Body Mass Index).
-  <br>
-  <a href="https://github.com/jadonahue/calculator">Code Here</a>
+ This is a website newsletter form focusing on backend developement using Node.js, Express.js, Mailchimp api, and Heroku server. This was also pushed to Heroku using git cmd line. This has a a successful page when someone signs up or a failure page if something goes wrong during signup. Give it a try by signin up to my Mailchimp newsletter today!
 </p>
