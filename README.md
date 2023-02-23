@@ -4,7 +4,7 @@ This is a list of projects I have created.
 
 <h2><a href="https://jadonahue.github.io/bootstrap-practice-site-tindog/">Tindog Bootstrap Website</a></h2>
 <p>
-  This is a website built using Bootstrap.
+  This is a static website built using Bootstrap.
   <br>
   <a href="https://github.com/jadonahue/bootstrap-practice-site-tindog">Code Here</a>
 </p>
@@ -14,6 +14,8 @@ This is a list of projects I have created.
 <h2><a href="https://fathomless-atoll-64548.herokuapp.com/">Newsletter Signup</a></h2>
 <p>
  This is a website newsletter form focusing on backend developement using Node.js, Express.js, Mailchimp api, and Heroku server. This was also pushed to Heroku using git cmd line. This has a a successful page when someone signs up or a failure page if something goes wrong during signup. Give it a try by signin up to my Mailchimp newsletter today!
+ <br>
+ <a href="https://github.com/jadonahue/newsletter-signup-code">Code Here</a>
 </p>
 
 ---
