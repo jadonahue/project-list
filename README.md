@@ -20,6 +20,15 @@ This is a list of projects I have created.
 
 ---
 
+<h2><a href="https://shrouded-inlet-69899.herokuapp.com/">Weather Project</a></h2>
+<p>
+   This is a weather app project with with Heroku server using node.js and express.js. This uses an api to gather relevant weather information for a city that the client inputs. This returns the weather description, temp, and a corresponding image of the current weather at that time.
+  <br>
+  <a href="https://github.com/jadonahue/weather-project-code">Code Here</a>
+</p>
+
+---
+
 <h2><a href="https://jadonahue.github.io/dice-game/">Dice Game</a></h2>
 <p>
   This is a website game using JavaScript and DOM. Two players roll dice and the higher number wins.
