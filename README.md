@@ -2,11 +2,11 @@
 This is a list of projects I have created.
 
 
-<h2><a href="https://jadonahue.github.io/bootstrap-practice-site-tindog/">Tindog Bootstrap Website</a></h2>
+<h2><a href="https://stormy-earth-28542.herokuapp.com/">To Do List v1</a></h2>
 <p>
-  This is a static website built using Bootstrap.
-  <br>
-  <a href="https://github.com/jadonahue/bootstrap-practice-site-tindog">Code Here</a>
+ This is a To Do List app using Node.js, Express.js, and EJS. The primary focus is EJS for templates. Has a normal & work To Do List.
+ <br>
+ <a href="https://github.com/jadonahue/todolist-v1-code">Code Here</a>
 </p>
 
 ---
@@ -25,6 +25,24 @@ This is a list of projects I have created.
    This is a weather app project with with Heroku server using node.js and express.js. This uses an api to gather relevant weather information for a city that the client inputs. This returns the weather description, temp, and a corresponding image of the current weather at that time.
   <br>
   <a href="https://github.com/jadonahue/weather-project-code">Code Here</a>
+</p>
+
+---
+
+<h2><a href="https://jadonahue.github.io/bootstrap-practice-site-tindog/">Tindog Bootstrap Website</a></h2>
+<p>
+  This is a static website built using Bootstrap.
+  <br>
+  <a href="https://github.com/jadonahue/bootstrap-practice-site-tindog">Code Here</a>
+</p>
+
+---
+
+<h2><a href="https://jadonahue.github.io/css-my-site/">My CSS Website</a></h2>
+<p>
+ This is a responsive website created while using HTML & CSS.
+ <br>
+ <a href="https://github.com/jadonahue/css-my-site">Code Here</a>
 </p>
 
 ---
