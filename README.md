@@ -4,7 +4,7 @@ This is a list of projects I have created.
 
 <h2><a href="https://stormy-earth-28542.herokuapp.com/">To Do List v1</a></h2>
 <p>
- This is a To Do List app using Node.js, Express.js, and EJS. The primary focus is EJS for templates. Has a normal & work To Do List.
+ This is a To Do List app using Node.js, Express.js, and EJS. The primary focus is EJS templates/layouts. Has a normal & work To Do List.
  <br>
  <a href="https://github.com/jadonahue/todolist-v1-code">Code Here</a>
 </p>
