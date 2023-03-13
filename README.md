@@ -31,7 +31,7 @@ This is a list of projects I have created.
 
 <h2><a href="https://jadonahue.github.io/bootstrap-practice-site-tindog/">Tindog Bootstrap Website</a></h2>
 <p>
-  This is a static website built using Bootstrap.
+  This is a static website called Tindog. It's a fun made up dating site for real life dogs which focuses on front-end development. The primary focus is how the page looks to the end user and is specifically built using Bootstrap, HTML, and CSS.
   <br>
   <a href="https://github.com/jadonahue/bootstrap-practice-site-tindog">Code Here</a>
 </p>
