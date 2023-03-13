@@ -22,7 +22,7 @@ This is a list of projects I have created.
 
 <h2><a href="https://shrouded-inlet-69899.herokuapp.com/">Weather Project</a></h2>
 <p>
-   This is a weather app project with with Heroku server using node.js and express.js. This uses an api to gather relevant weather information for a city that the client inputs. This returns the weather description, temp, and a corresponding image of the current weather at that time.
+   This is a weather app project with Heroku server using node.js and express.js. This uses an api to gather relevant weather information for a city that the client inputs. This returns the weather description, temp, and a corresponding image of the current weather at that specific time for that specific location.
   <br>
   <a href="https://github.com/jadonahue/weather-project-code">Code Here</a>
 </p>
