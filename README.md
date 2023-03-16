@@ -22,8 +22,6 @@ This is a list of projects I have created.
 
 <h2><a href="https://fathomless-atoll-64548.herokuapp.com/">Newsletter Signup</a></h2>
 <p>
- This is a website newsletter form focusing on backend development using Node.js, Express.js, Mailchimp api, and Heroku server. This was also pushed to Heroku using git cmd line. This has a a successful page when someone signs up or a failure page if something goes wrong during signup. Give it a try by signing up to my Mailchimp newsletter today!
- 
  This project is a website newsletter form focusing on back-end development using Node.js, Express.js, Mailchimp API, and Heroku server. This was also pushed to Heroku using git cmd line. This has a successful page when someone signs up or a failure page if something goes wrong during signup. Give it a try by signing up to my Mailchimp newsletter today!
  <br>
  <a href="https://github.com/jadonahue/newsletter-signup-code">Code Here</a>
