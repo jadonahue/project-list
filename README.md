@@ -4,7 +4,7 @@ This is a list of projects I have created.
 
 <h2><a href="https://jadonahue.github.io/one-piece-fan-page/">One Piece Fan Homepage</a></h2>
 <p>
- For Harvard's CS50 course, we had to create a homepage that met certain requirements for an assignment. I ended up creating a One Piece Fan Homepage based on the anime show I enjoy called "One Piece". This website uses HTML, CSS, Bootstrap 5, and also custom JavaScript code with DOM manipulation. The About Crew page has a Bootstrap 5 carousel which goes over the Straw Hat's crew with a brief description. The Devil Fruit page has a JavaScript random generator that uses DOM manipulation to randomly select a Devil Fruit image along with the description. There are 41 different fruits it can select from. Check it out!
+ For Harvard's CS50 course, we had to create a homepage that met certain requirements for an assignment. I ended up creating a responsive One Piece Fan Homepage or website based on the anime show I enjoy called "One Piece". This website uses HTML, CSS, Bootstrap 5, and also custom JavaScript code with DOM manipulation. The About Crew page has a Bootstrap 5 carousel which goes over the Straw Hat's crew with a brief description. The Devil Fruit page has a JavaScript random generator that uses DOM manipulation to randomly select a Devil Fruit image along with the description. There are 41 different fruits it can select from. Check it out!
  <br>
  <a href="https://github.com/jadonahue/one-piece-fan-page">Code Here</a>
 </p>
@@ -40,7 +40,7 @@ This is a list of projects I have created.
 
 <h2><a href="https://jadonahue.github.io/bootstrap-practice-site-tindog/">Tindog Bootstrap Website</a></h2>
 <p>
-  This is a static website called Tindog. This is a fun made-up dating site for real-life dogs that focuses on front-end development. This is built specifically using Bootstrap, HTML, and CSS.
+  This is a static responsive website called Tindog. This is a fun made-up dating site for real-life dogs that focuses on front-end development. This is built specifically using Bootstrap, HTML, and CSS.
   <br>
   <a href="https://github.com/jadonahue/bootstrap-practice-site-tindog">Code Here</a>
 </p>
@@ -58,7 +58,7 @@ This is a list of projects I have created.
 
 <h2><a href="https://jadonahue.github.io/dice-game/">Dice Game</a></h2>
 <p>
-  This is a website game using JavaScript and DOM. Two players roll dice and the higher number wins.
+  This is a responsive website game using JavaScript and DOM. Two players roll dice and the higher number wins.
   <br>
   <a href="https://github.com/jadonahue/dice-game">Code Here</a>
 </p>
@@ -67,7 +67,7 @@ This is a list of projects I have created.
 
 <h2><a href="https://jadonahue.github.io/drum-kit/">Drum Kit</a></h2>
 <p>
-  This is a website emulating a drum kit using JavaScript and DOM. Have fun playing the drums on your computer.
+  This is a responsive website emulating a drum kit using JavaScript and DOM. Have fun playing the drums on your computer.
   <br>
   <a href="https://github.com/jadonahue/drum-kit">Code Here</a>
 </p>
@@ -76,7 +76,7 @@ This is a list of projects I have created.
 
 <h2><a href="https://jadonahue.github.io/the-simon-game/">The Simon Game</a></h2>
 <p>
-  This is a website game focused on using jQuery. Remember the pattern from start to finish each cycle and repeat it back. How far can you go before you forget?
+  This is a responsive website game focused on using jQuery. Remember the pattern from start to finish each cycle and repeat it back. How far can you go before you forget?
   <br>
   <a href="https://github.com/jadonahue/the-simon-game">Code Here</a>
 </p>
