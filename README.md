@@ -58,7 +58,7 @@ This is a list of projects I have created.
 
 <h2><a href="https://jadonahue.github.io/dice-game/">Dice Game</a></h2>
 <p>
-  This is a responsive website game using JavaScript and DOM. Two players roll dice and the higher number wins.
+  This is a responsive website game using JavaScript and DOM manipulation. Two players roll dice and the higher number wins.
   <br>
   <a href="https://github.com/jadonahue/dice-game">Code Here</a>
 </p>
@@ -67,7 +67,7 @@ This is a list of projects I have created.
 
 <h2><a href="https://jadonahue.github.io/drum-kit/">Drum Kit</a></h2>
 <p>
-  This is a responsive website emulating a drum kit using JavaScript and DOM. Have fun playing the drums on your computer.
+  This is a responsive website emulating a drum kit using JavaScript and DOM manipulation. Have fun playing the drums on your computer.
   <br>
   <a href="https://github.com/jadonahue/drum-kit">Code Here</a>
 </p>
