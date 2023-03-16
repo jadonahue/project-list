@@ -2,11 +2,18 @@
 This is a list of projects I have created.
 
 
+<h2><a href="https://jadonahue.github.io/one-piece-fan-page/">One Piece Fan Homepage</a></h2>
+<p>
+ For Harvard's CS50 course we had to create a homepage which met certain requirements. I ended up creating a One Piece Fan Homepage based on the anime show I enjoy called "One Piece". This website uses HTML, CSS, Bootstrap 5, and also custom JavaScript code with DOM. The Devil Fruit page has a JavaScript random generater which uses DOM to randomly select a Devil Fruit image along with description. There are 41 different frutis it can select from. Check it out!
+ <br>
+ <a href="https://github.com/jadonahue/todolist-v1-code">Code Here</a>
+</p>
+
 <h2><a href="https://stormy-earth-28542.herokuapp.com/">To Do List v1</a></h2>
 <p>
  This is a To Do List app using Node.js, Express.js, and EJS. The primary focus is EJS templates/layouts. Has a normal & work To Do List.
  <br>
- <a href="https://github.com/jadonahue/todolist-v1-code">Code Here</a>
+ <a href="https://github.com/jadonahue/one-piece-fan-page">Code Here</a>
 </p>
 
 ---
