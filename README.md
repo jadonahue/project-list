@@ -15,7 +15,7 @@ This is a list of projects I have created.
 <p>
  This project is a To-Do List app using Node.js, Express.js, and EJS. The primary focus is EJS templates/layout customization. There is a normal To-Do List & also a work To-Do List.
  <br>
- <a href="https://github.com/jadonahue/one-piece-fan-page">Code Here</a>
+ <a href="https://github.com/jadonahue/todolist-v1-code">Code Here</a>
 </p>
 
 ---
