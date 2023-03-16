@@ -6,7 +6,7 @@ This is a list of projects I have created.
 <p>
  For Harvard's CS50 course we had to create a homepage which met certain requirements for an assignment. I ended up creating a One Piece Fan Homepage based on the anime show I enjoy called "One Piece". This website uses HTML, CSS, Bootstrap 5, and also custom JavaScript code with DOM manipulation. The About Crew page has a Bootstrap 5 carousel which goes over the Straw Hat's crew with a brief description. The Devil Fruit page has a JavaScript random generater which uses DOM to randomly select a Devil Fruit image along with description. There are 41 different fruits it can select from. Check it out!
  <br>
- <a href="https://github.com/jadonahue/todolist-v1-code">Code Here</a>
+ <a href="https://github.com/jadonahue/one-piece-fan-page">Code Here</a>
 </p>
 
 ---
