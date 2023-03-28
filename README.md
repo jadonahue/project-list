@@ -11,11 +11,11 @@ This is a list of projects I have created.
 
 ---
 
-<h2><a href="https://stormy-earth-28542.herokuapp.com/">To-Do List v1</a></h2>
+<h2><a href="https://stark-falls-37137.herokuapp.com/">To-Do List v2</a></h2>
 <p>
- This project is a To-Do List app using Node.js, Express.js, and EJS. The primary focus is EJS templates/layout customization. There is a normal To-Do List & also a work To-Do List.
+This project is a To-Do List app using Node.js, Express.js,EJS, MongoDB, and Mongoose. The primary focus is EJS templates/layout customization with MongoDB & Mongoose functionality. There is a normal To-Do List & also a work To-Do List. You can also create a dynamic To-Do List as well.
  <br>
- <a href="https://github.com/jadonahue/todolist-v1-code">Code Here</a>
+ <a href="https://github.com/jadonahue/todolist-v2-code">Code Here</a>
 </p>
 
 ---
