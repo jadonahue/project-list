@@ -22,7 +22,7 @@ This project is a To-Do List app using Node.js, Express.js,EJS, MongoDB, and Mon
 
 This project is a website newsletter form focusing on back-end development using Node.js, Express.js, Mailchimp API, and Heroku server. This was also pushed to Heroku using git cmd line. This has a successful page when someone signs up or a failure page if something goes wrong during signup. Give it a try by signing up to my Mailchimp newsletter today!
 
-<a href="https://github.com/jadonahue/newsletter-signup-code">Code Here</a>
+<a href="https://github.com/jadonahue/newsletter-signup">Code Here</a>
 
 ---
 
