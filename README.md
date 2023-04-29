@@ -14,7 +14,7 @@ For Harvard's CS50 course, we had to create a homepage that met certain requirem
 
 This project is a To-Do List app using Node.js, Express.js,EJS, MongoDB, and Mongoose. The primary focus is EJS templates/layout customization with MongoDB & Mongoose functionality. There is a normal To-Do List & also a work To-Do List. You can also create a dynamic To-Do List as well.
  
-<a href="https://github.com/jadonahue/todolist-v2-code">Code Here</a>
+<a href="https://github.com/jadonahue/todolist-v2">Code Here</a>
 
 ---
 
@@ -30,7 +30,7 @@ This project is a website newsletter form focusing on back-end development using
 
 This is a weather app project using Node.js and Express.js with Heroku server. This uses an API to gather relevant weather information for a city that the user inputs. This returns the weather description, temperature, and a corresponding image of the current weather at that specific time for that specific location. The main focus of this project is back-end development.
 
- <a href="https://github.com/jadonahue/weather-project-code">Code Here</a>
+ <a href="https://github.com/jadonahue/weather-project">Code Here</a>
 
 ---
 
