@@ -2,6 +2,14 @@
 This is a list of projects I have created.
 
 
+## <a href="https://joshify-website.netlify.app/">Joshify Website</a>
+
+This website/page was built with a component based design which gives the flexibility to change and add various features of the site elseware as needed. This site was built for fun and learning purposes.
+
+<a href="https://github.com/jadonahue/joshify-website">Code Here</a>
+
+---
+
 ## <a href="https://jadonahue.github.io/one-piece-fan-page/">One Piece Fan Homepage</a>
 
 For Harvard's CS50 course, we had to create a homepage that met certain requirements for an assignment. I ended up creating a One Piece Fan Homepage or website based on the anime show I enjoy called "One Piece". This responsive website uses HTML, CSS, Bootstrap 5, and also custom JavaScript code with DOM manipulation. Check it out!
