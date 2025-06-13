@@ -10,6 +10,14 @@ This website/page was built with a component based design which gives the flexib
 
 ---
 
+## <a href="https://job-search-tracker-ten.vercel.app/">Job Search Tracker</a>
+
+A fullstack application to help you track your job applications across different stages like **Applied**, **Interviewing**, **Offer**, and **Rejected** — all in one intuitive dashboard.
+
+<a href="https://github.com/jadonahue/job-search-tracker">Code Here</a>
+
+---
+
 ## <a href="https://jadonahue.github.io/one-piece-fan-page/">One Piece Fan Homepage</a>
 
 For Harvard's CS50 course, we had to create a homepage that met certain requirements for an assignment. I ended up creating a One Piece Fan Homepage or website based on the anime show I enjoy called "One Piece". This responsive website uses HTML, CSS, Bootstrap 5, and also custom JavaScript code with DOM manipulation. Check it out!
