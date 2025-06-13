@@ -2,19 +2,19 @@
 This is a list of projects I have created.
 
 
-## <a href="https://joshify-website.netlify.app/">Joshify Website</a>
-
-This website/page was built with a component based design which gives the flexibility to change and add various features of the site elseware as needed. This site was built for fun and learning purposes.
-
-<a href="https://github.com/jadonahue/joshify-website">Code Here</a>
-
----
-
 ## <a href="https://job-search-tracker-ten.vercel.app/">Job Search Tracker</a>
 
 A fullstack application to help you track your job applications across different stages like **Applied**, **Interviewing**, **Offer**, and **Rejected** — all in one intuitive dashboard.
 
 <a href="https://github.com/jadonahue/job-search-tracker">Code Here</a>
+
+---
+
+## <a href="https://joshify-website.netlify.app/">Joshify Website</a>
+
+This website/page was built with a component based design which gives the flexibility to change and add various features of the site elseware as needed. This site was built for fun and learning purposes.
+
+<a href="https://github.com/jadonahue/joshify-website">Code Here</a>
 
 ---
 
